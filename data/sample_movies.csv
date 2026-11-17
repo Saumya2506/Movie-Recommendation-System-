@@ -1,0 +1,52 @@
+movieId,title,genres,overview
+1,The Shawshank Redemption,Drama,A banker is sentenced to life in prison and builds an enduring friendship while holding on to hope.
+2,The Godfather,Crime|Drama,The aging patriarch of a crime family transfers control to his reluctant son.
+3,The Dark Knight,Action|Crime|Drama,A masked hero faces a criminal mastermind who pushes a city into chaos.
+4,Pulp Fiction,Crime|Drama,"Interconnected stories of criminals, redemption and chance unfold in Los Angeles."
+5,Forrest Gump,Drama|Romance,A kind-hearted man witnesses major moments in history while searching for love.
+6,Inception,Action|Sci-Fi|Thriller,A specialist enters people’s dreams to plant an idea in a complex heist.
+7,The Matrix,Action|Sci-Fi,A hacker discovers reality is a simulation and joins a rebellion against machines.
+8,Interstellar,Adventure|Drama|Sci-Fi,Explorers travel through a wormhole to search for humanity’s next home.
+9,The Lord of the Rings: The Fellowship of the Ring,Adventure|Fantasy,A hobbit begins a perilous quest to destroy a powerful ring.
+10,The Lord of the Rings: The Two Towers,Adventure|Fantasy,The fellowship is divided as battles spread across a mythical world.
+11,The Lord of the Rings: The Return of the King,Adventure|Fantasy,Allies unite for a final struggle against a dark power.
+12,The Avengers,Action|Adventure|Sci-Fi,A team of extraordinary heroes joins forces to protect Earth.
+13,Guardians of the Galaxy,Action|Adventure|Comedy|Sci-Fi,A group of unlikely space outlaws teams up to protect a mysterious artifact.
+14,Spider-Man: Into the Spider-Verse,Animation|Action|Adventure,A teenager discovers alternate versions of a web-slinging hero across dimensions.
+15,Toy Story,Animation|Adventure|Comedy,"Toys come to life when humans are away, testing an old friendship."
+16,Finding Nemo,Animation|Adventure|Comedy,A cautious clownfish crosses the ocean to find his missing son.
+17,Coco,Animation|Adventure|Family|Fantasy,A young musician journeys to the Land of the Dead to uncover family history.
+18,Inside Out,Animation|Comedy|Drama|Family,Personified emotions guide a young girl through a major life transition.
+19,The Grand Budapest Hotel,Comedy|Drama,A hotel concierge and his protégé become involved in a European caper.
+20,The Social Network,Biography|Drama,A college student creates a social networking company amid friendships and lawsuits.
+21,Moneyball,Biography|Drama|Sport,A baseball manager uses statistics and unconventional analysis to build a competitive team.
+22,The Imitation Game,Biography|Drama|Thriller,A mathematician leads codebreakers during World War II.
+23,A Beautiful Mind,Biography|Drama,A brilliant mathematician navigates academic achievement and personal challenges.
+24,Whiplash,Drama|Music,A driven young drummer faces an exacting instructor at a music conservatory.
+25,La La Land,Comedy|Drama|Music|Romance,A jazz musician and an aspiring actor pursue dreams and a relationship in Los Angeles.
+26,The Notebook,Drama|Romance,A lifelong love story is recalled through memories of a couple.
+27,Pride & Prejudice,Drama|Romance,A spirited young woman and a reserved gentleman confront class and first impressions.
+28,Titanic,Drama|Romance,Two young passengers from different backgrounds fall in love aboard an ill-fated ship.
+29,Get Out,Horror|Mystery|Thriller,A weekend visit exposes a photographer to disturbing secrets.
+30,A Quiet Place,Drama|Horror|Sci-Fi,A family tries to survive in silence while hunted by creatures with acute hearing.
+31,The Conjuring,Horror|Mystery|Thriller,Paranormal investigators help a family confronting a frightening presence.
+32,Knives Out,Comedy|Crime|Drama|Mystery,A detective investigates the death of a wealthy novelist amid a complicated family.
+33,Se7en,Crime|Drama|Mystery|Thriller,Two detectives pursue a serial killer whose crimes follow the seven deadly sins.
+34,The Silence of the Lambs,Crime|Drama|Thriller,An FBI trainee seeks insight from an imprisoned killer to catch another murderer.
+35,Mad Max: Fury Road,Action|Adventure|Sci-Fi,A fugitive joins a rebel driver in a high-speed escape across a desert wasteland.
+36,Gladiator,Action|Adventure|Drama,A betrayed Roman general seeks justice in the arena.
+37,Jurassic Park,Adventure|Sci-Fi|Thriller,A theme park of cloned dinosaurs descends into danger after a security failure.
+38,The Martian,Adventure|Drama|Sci-Fi,An astronaut stranded on Mars uses science and ingenuity to survive.
+39,Arrival,Drama|Mystery|Sci-Fi,A linguist works to communicate with visitors whose arrival changes humanity.
+40,The Prestige,Drama|Mystery|Sci-Fi|Thriller,Two rival stage magicians become consumed by secrecy and competition.
+41,The Truman Show,Comedy|Drama|Sci-Fi,A man slowly discovers that his ordinary life is a manufactured television show.
+42,Catch Me If You Can,Biography|Crime|Drama,An ingenious young con artist is pursued by an FBI agent.
+43,The Departed,Crime|Drama|Thriller,An undercover officer and a criminal informant work inside opposing organizations.
+44,Dune,Adventure|Drama|Sci-Fi,A young heir travels to a harsh desert planet central to a galactic struggle.
+45,Everything Everywhere All at Once,Action|Adventure|Comedy|Sci-Fi,A family-run laundromat owner is drawn into a chaotic multiverse adventure.
+46,The Princess Bride,Adventure|Comedy|Fantasy|Romance,A farmhand sets out to rescue his true love in a fairy-tale adventure.
+47,Spirited Away,Animation|Adventure|Family|Fantasy,A girl enters a spirit world and works to free her parents.
+48,The Incredibles,Animation|Action|Adventure|Family,A family of former superheroes balances ordinary life with a secret mission.
+49,The Big Short,Biography|Comedy|Drama,A group of outsiders recognizes warning signs before the global financial crisis.
+50,The Wolf of Wall Street,Biography|Comedy|Crime|Drama,A stockbroker rises to wealth through aggressive and fraudulent financial schemes.
+51,Sicario,Action|Crime|Drama|Thriller,An FBI agent joins a covert operation against a powerful drug cartel.
